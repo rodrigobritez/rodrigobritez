@@ -1,6 +1,6 @@
 ## Hi Everyone! 👋
 ### My name is Rodrigo, I am a student of computer science!
-#### I'm 26 years old, live in Brazil 🇧🇷 and currently work as a computer technician! 💻
+#### I'm 27 years old, live in Brazil 🇧🇷 and currently work as a full stack developer at Telluria Group! 💻
 
 
 
